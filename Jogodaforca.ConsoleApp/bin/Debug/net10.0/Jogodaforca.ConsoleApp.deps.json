@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Jogodaforca.ConsoleApp/1.0.0": {
+        "runtime": {
+          "Jogodaforca.ConsoleApp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Jogodaforca.ConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
