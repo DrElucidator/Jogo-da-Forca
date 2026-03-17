@@ -1,8 +1,6 @@
 ﻿using System.Runtime.InteropServices;
 using System.Security.Cryptography;
 
-namespace Jogodaforca.ConsoleApp;
-
 class Program
 {
     static void Main(string[] args)
